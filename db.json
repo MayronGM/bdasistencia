@@ -89,7 +89,7 @@
       "avatar": "../assets/avatars/imagen-8.png"
     } 
   ] ,
-  docente:[
+  "docente":[
   { 
     "id": 1,
     "seccion": "V002",
