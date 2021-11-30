@@ -8,7 +8,8 @@
       "horario": "Diurno",
       "sede": "Viña del mar",
       "telefono": "+569437749277",
-      "seccion": "D002"
+      "seccion": "D002",
+      "avatar": "../assets/avatars/imagen-1.png"      
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "horario": "Vespertino",
       "sede": "Viña del mar",
       "telefono": "+56938221916",
-      "seccion": "V002"
+      "seccion": "V002".
+      "avatar": "../assets/avatars/imagen-2.png"
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "password": "123456",
       "horario": "Diurno",
       "sede": "Viña del mar",
-      "seccion": "D002"
+      "seccion": "D002",
+      "avatar": "../assets/avatars/imagen-3.png"
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "password": "123456",
       "horario": "Vespertino",
       "sede": "Viña del mar",
-      "seccion": "V002"
+      "seccion": "V002",
+      "avatar": "../assets/avatars/imagen-4.png"
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "password": "123456",
       "horario": "Diurno",
       "sede": "Viña del mar",
-      "seccion": "D002"
+      "seccion": "D002",
+      "avatar": "../assets/avatars/imagen-5.png"
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "password": "123456",
       "horario": "Vespertino",
       "sede": "Viña del mar",
-      "seccion": "V002"
+      "seccion": "V002",
+      "avatar": "../assets/avatars/imagen-6.png"
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "password": "123456",
       "horario": "Vespertino",
       "sede": "Viña del mar",
-      "seccion": "V002"
+      "seccion": "V002",
+      "avatar": "../assets/avatars/imagen-7.png"
     },
     {
       "id": 8,
@@ -78,7 +85,18 @@
       "password": "123456",
       "horario": "Vespertino",
       "sede": "Viña del mar",
-      "seccion": "V002"
-    }
+      "seccion": "V002",
+      "avatar": "../assets/avatars/imagen-8.png"
+    } 
+  ] ,
+  docente:[
+  { 
+    "id": 1,
+    "seccion": "V002",
+    "asignatura": "Prueba",
+    "docente": "Aplicación Móvil",
+    "correo": "nan.bernal@profesor.duoc.cl",
+    "avatar": "../assets/avatars/docent-1.png"
+  } 
   ]
-}
+} 
