@@ -90,13 +90,13 @@
     } 
   ] ,
   "docente":[
-  { 
-    "id": 1,
-    "seccion": "V002",
-    "asignatura": "Aplicación Móvil",
-    "docente": "Nancy Bernal",
-    "correo": "nan.bernal@profesor.duoc.cl",
-    "avatar": "../assets/avatars/docent-1.png"
-  } 
+    { 
+      "id": 1,
+      "seccion": "V002",
+      "asignatura": "Aplicación Móvil",
+      "docente": "Nancy Bernal",
+      "correo": "nan.bernal@profesor.duoc.cl",
+      "avatar": "../assets/avatars/docent-1.png"
+    } 
   ]
 } 
