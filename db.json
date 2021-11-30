@@ -93,8 +93,8 @@
   { 
     "id": 1,
     "seccion": "V002",
-    "asignatura": "Prueba",
-    "docente": "Aplicación Móvil",
+    "asignatura": "Aplicación Móvil",
+    "docente": "Nancy Bernal",
     "correo": "nan.bernal@profesor.duoc.cl",
     "avatar": "../assets/avatars/docent-1.png"
   } 
